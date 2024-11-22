@@ -1,5 +1,17 @@
 ### Dependencies
 
+## 1.9.1
+
+### Patch Changes
+
+- a6e850f: Updated dependency `msw` to `1.3.5`.
+
+## 1.9.0
+
+### Minor Changes
+
+- 883e289: Migrate matomo analytics provider from janus to backstage community-plugins.
+
 ## 1.8.1
 
 ### Patch Changes
